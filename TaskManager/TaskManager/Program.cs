@@ -20,7 +20,7 @@ namespace TaskManager
                 {
                     PrintHelpInformation();
                 }
-                else if (command == "taskkist")
+                else if (command == "tasklist")
                 {
                     PrintTaskList();
                     Console.WriteLine();
